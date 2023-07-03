@@ -14,3 +14,7 @@ Books.csv: ISBN,bookTitle,bookAuthor,yearOfPublication,publisher,Image-URL
 Ratings.csv: userID,ISBN,bookRating
 Users.csv: userID, location, age
 
+Dataset columns:
+Books.csv: ISBN,bookTitle,bookAuthor,yearOfPublication,publisher,Image-URL
+Ratings.csv: userID,ISBN,bookRating
+Users.csv: userID, location, age
